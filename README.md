@@ -2,7 +2,7 @@
 
 By: Jacob Malin
 
-This version of the project uses motion planning to simulate crowds of people in two scenes, a generic unnamed university campus, and an apartment.
+This version of the project uses motion planning to simulate crowds of people in two scenes, an apartment and a generic unnamed university campus.
 
 <img src="https://media.github.umn.edu/user/19560/files/dc4c0d92-11db-472c-808c-3d5df22660f0" width="600"/>
 
