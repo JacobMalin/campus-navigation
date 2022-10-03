@@ -28,6 +28,10 @@ https://media.github.umn.edu/user/19560/files/4cb7adf0-ae70-4a07-a233-76a924f392
 
 ### Orientation Smoothing
 
+Agents were given an orientation with forward being the direction that the eyes of the people models are facing. To show how the rotation corresponds with the agent's path, the agent in the bedroom's path is shown.
+
+https://media.github.umn.edu/user/19560/files/d8218a2a-6315-49e4-8504-892bf3665dc2
+
 ### Multiple Agents Planning
 
 ### Challenge: Crowd Simulation
