@@ -14,14 +14,24 @@ By: Jacob Malin
 - Multiple Agents Planning
 - Challenge: Crowd Simulation
 
-## Single Agent Navigation
+### Single Agent Navigation
+
+Agents move without overlapping obstacles. To better illustrate the agents' navigation, the bounding circle and path were enabled for one agent.
 
 https://media.github.umn.edu/user/19560/files/f94bfcbc-42b0-426e-92a0-4441cef104ce
 
-## Improved Agent & Scene Rendering
+### Improved Agent & Scene Rendering
 
-## Orientation Smoothing
+Agents were rendered using images of people from a bird's eye perspective. The agents use circular bounding geometry. Obstacles were rendered as complex polygons.
 
-## Multiple Agents Planning
+https://media.github.umn.edu/user/19560/files/611e35ce-7975-4885-80c2-1ff17918b668
 
-## Challenge: Crowd Simulation
+### Orientation Smoothing
+
+### Multiple Agents Planning
+
+### Challenge: Crowd Simulation
+
+## Tools/Libraries used
+
+## Difficulties
