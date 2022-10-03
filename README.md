@@ -52,4 +52,8 @@ https://media.github.umn.edu/user/19560/files/8b4772ec-2140-47a3-9ef2-2889ecd24d
 
 ## Tools/Libraries used
 
+- For A* in PRM, Java PriorityQueues were used.
+- For detecting if points were in shapes (obstacles) the code was adapted from a [processing.org forum](https://discourse.processing.org/t/checking-for-a-point-within-a-2d-shape-v3-5/26874/15) to account for padding.
+- For determining if two line segments were intersecting, code was borrowed from [stackoverflow](https://stackoverflow.com/questions/3838329/how-can-i-check-if-two-segments-intersect).
+
 ## Difficulties
