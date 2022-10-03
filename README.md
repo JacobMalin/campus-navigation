@@ -52,7 +52,7 @@ https://media.github.umn.edu/user/19560/files/8b4772ec-2140-47a3-9ef2-2889ecd24d
 
 ## Difficulties
 
-One of my main difficulties was biting off more than I could chew. I found myself needing to detect if points were within complex polygons (I wanted to see how hard it would be to not use simple bounding geometry.), and if two line segments were intersecting. I had thought those would be simpler problems then they turned out to be, so my final code on those portions is an amalgamation of online help cited below and staring way too hard at a geogebra animation.
+One of my main difficulties was biting off more than I could chew. I found myself needing to detect if points were within complex polygons (I wanted to see how hard it would be to not use simple bounding geometry.), and if two line segments were intersecting. I had thought those would be simpler problems then they turned out to be but as that was not the case, my final code on those portions is an amalgamation of online help cited below and staring way too hard at a geogebra animation.
 
 Another difficulty was how hard it was to balance all of the forces. At any given moment, if the ttc forces were too high, agents would get thrown into the obstacles, or if the acceleration was too low, they would slide right past the goals. I have it balanced in the final product so that there is minimal obstacle sliding, but it is not completely gone.
 
