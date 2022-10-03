@@ -18,13 +18,13 @@ By: Jacob Malin
 
 Agents move without overlapping obstacles. To better illustrate the agent's navigation, the bounding circle and path were enabled for one agent.
 
-https://media.github.umn.edu/user/19560/files/f94bfcbc-42b0-426e-92a0-4441cef104ce
+https://media.github.umn.edu/user/19560/files/9c65c095-6ab4-41e3-ab5b-55a639e204bc
 
 ### Improved Agent & Scene Rendering
 
 Agents were rendered using images of people from a bird's eye perspective. The agents use circular bounding geometry. Obstacles were rendered as complex polygons.
 
-https://media.github.umn.edu/user/19560/files/611e35ce-7975-4885-80c2-1ff17918b668
+https://media.github.umn.edu/user/19560/files/4cb7adf0-ae70-4a07-a233-76a924f392ac
 
 ### Orientation Smoothing
 
