@@ -1,4 +1,4 @@
-# CSCI 5611 Project 1[](https://github.umn.edu/malin146/Project1)
+# CSCI 5611 [Project 1](https://github.umn.edu/malin146/Project1)
 
 By: Jacob Malin
 
