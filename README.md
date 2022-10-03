@@ -8,4 +8,8 @@ By: Jacob Malin
 
 ## Attempted Components
 
-Single Agent Navigation, Improved	Agent &	Scene Rendering, Orientation Smoothing, Multiple Agents Planning, & Challenge: Crowd Simulation
+- Single Agent Navigation
+- Improved Agent & Scene Rendering
+- Orientation Smoothing
+- Multiple Agents Planning
+- Challenge: Crowd Simulation
