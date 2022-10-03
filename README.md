@@ -2,6 +2,8 @@
 
 By: Jacob Malin
 
+This version of the project uses motion planning to simulate crowds of people in two scenes, a generic unnamed university campus, and an apartment.
+
 <img src="https://media.github.umn.edu/user/19560/files/dc4c0d92-11db-472c-808c-3d5df22660f0" width="600"/>
 
 <img src="https://media.github.umn.edu/user/19560/files/84a06dd2-62bb-4650-896e-d89f234d6bc9" width="600"/>
@@ -28,11 +30,13 @@ https://media.github.umn.edu/user/19560/files/4cb7adf0-ae70-4a07-a233-76a924f392
 
 ### Orientation Smoothing
 
-Agents were given an orientation with forward being the direction that the eyes of the people models are facing. To show how the rotation corresponds with the agent's path, the agent in the bedroom's path is shown.
+Agents were given an orientation with forward being the direction that the eyes of the people models are facing. To show how the rotation corresponds with the agent's path, the agent in the bedroom's path is shown (the blue shirted agent in the bottom left).
 
 https://media.github.umn.edu/user/19560/files/d8218a2a-6315-49e4-8504-892bf3665dc2
 
 ### Multiple Agents Planning
+
+Multiple agents are rendered in each scene. Each agent
 
 ### Challenge: Crowd Simulation
 
