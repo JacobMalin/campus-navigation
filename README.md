@@ -50,10 +50,14 @@ https://media.github.umn.edu/user/19560/files/f103fdab-a217-4d00-b9e1-ff02e4362b
 
 https://media.github.umn.edu/user/19560/files/8b4772ec-2140-47a3-9ef2-2889ecd24d7d
 
+## Difficulties
+
+One of my main difficulties was biting off more than I could chew. I found myself needing to detect if points were within complex polygons (I wanted to see how hard it would be to not use simple bounding geometry.), and if two line segments were intersecting. I had thought those would be simpler problems then they turned out to be, so my final code on those portions is an amalgamation of online help cited below and staring way too hard at a geogebra animation.
+
+Another difficulty was how hard it was to balance all of the forces. At any given moment, if the ttc forces were too high, agents would get thrown into the obstacles, or if the acceleration was too low, they would slide right past the goals. I have it balanced in the final product so that there is minimal obstacle sliding, but it is not completely gone.
+
 ## Tools/Libraries used
 
 - For A* in PRM, Java PriorityQueues were used.
 - For detecting if points were in shapes (obstacles) the code was adapted from a [processing.org forum](https://discourse.processing.org/t/checking-for-a-point-within-a-2d-shape-v3-5/26874/15) to account for padding.
 - For determining if two line segments were intersecting, code was borrowed from [stackoverflow](https://stackoverflow.com/questions/3838329/how-can-i-check-if-two-segments-intersect).
-
-## Difficulties
