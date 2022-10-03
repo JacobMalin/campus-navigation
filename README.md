@@ -42,6 +42,14 @@ https://media.github.umn.edu/user/19560/files/b43803cd-e894-4513-b278-7831ae716c
 
 ### Challenge: Crowd Simulation
 
+Agents avoid collision by using TTC forces supplemented with a repelling force to ensure the agents do not get stuck ontop of eachother. The first video below has both bounding circles and paths enabled to show off collision avoidance. The following two videos show off the two scenes, the apartment and the campus, respectively.
+
+https://media.github.umn.edu/user/19560/files/0b635dac-06a0-4ccb-8e4c-5b0a4de853e5
+
+https://media.github.umn.edu/user/19560/files/f103fdab-a217-4d00-b9e1-ff02e4362bdb
+
+https://media.github.umn.edu/user/19560/files/8b4772ec-2140-47a3-9ef2-2889ecd24d7d
+
 ## Tools/Libraries used
 
 ## Difficulties
