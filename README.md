@@ -16,7 +16,7 @@ By: Jacob Malin
 
 ### Single Agent Navigation
 
-Agents move without overlapping obstacles. To better illustrate the agents' navigation, the bounding circle and path were enabled for one agent.
+Agents move without overlapping obstacles. To better illustrate the agent's navigation, the bounding circle and path were enabled for one agent.
 
 https://media.github.umn.edu/user/19560/files/f94bfcbc-42b0-426e-92a0-4441cef104ce
 
