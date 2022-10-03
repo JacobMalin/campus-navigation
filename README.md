@@ -13,3 +13,15 @@ By: Jacob Malin
 - Orientation Smoothing
 - Multiple Agents Planning
 - Challenge: Crowd Simulation
+
+## Single Agent Navigation
+
+https://media.github.umn.edu/user/19560/files/f94bfcbc-42b0-426e-92a0-4441cef104ce
+
+## Improved Agent & Scene Rendering
+
+## Orientation Smoothing
+
+## Multiple Agents Planning
+
+## Challenge: Crowd Simulation
