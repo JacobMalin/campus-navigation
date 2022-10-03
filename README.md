@@ -6,3 +6,6 @@ By: Jacob Malin
 
 <img src="https://media.github.umn.edu/user/19560/files/84a06dd2-62bb-4650-896e-d89f234d6bc9" width="600"/>
 
+## Attempted parts
+
+Single Agent Navigation, Improved	Agent &	Scene Rendering, Orientation Smoothing, Multiple Agents Planning, & Challenge: Crowd Simulation
