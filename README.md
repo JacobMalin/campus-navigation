@@ -20,35 +20,35 @@ This version of the project uses motion planning to simulate crowds of people in
 
 Agents move without overlapping obstacles. To better illustrate the agent's navigation, the bounding circle and path were enabled for one agent.
 
-https://media.github.umn.edu/user/19560/files/9c65c095-6ab4-41e3-ab5b-55a639e204bc
+https://github.com/JacobMalin/campus-navigation/assets/34765120/6fee8c32-592e-4b59-92dc-cab922478945
 
 ### Improved Agent & Scene Rendering
 
 Agents were rendered using images of people from a bird's eye perspective. The agents use circular bounding geometry. Obstacles were rendered as complex polygons.
 
-https://media.github.umn.edu/user/19560/files/4cb7adf0-ae70-4a07-a233-76a924f392ac
+https://github.com/JacobMalin/campus-navigation/assets/34765120/ec60732e-1562-4559-9f3d-ce138dfea732
 
 ### Orientation Smoothing
 
 Agents were given an orientation with forward as the direction that the 'eyes' of the models are facing. To show how the rotation corresponds with the agent's path, the agent in the bedroom's path is shown (the agent in the blue shirt in the bottom left).
 
-https://media.github.umn.edu/user/19560/files/d8218a2a-6315-49e4-8504-892bf3665dc2
+https://github.com/JacobMalin/campus-navigation/assets/34765120/9a4566df-1915-47e5-b405-b5ad0a24a626
 
 ### Multiple Agents Planning
 
 Multiple agents are rendered in each scene. Each agent moves towards their own goal that is randomly chosen, and upon reaching that goal will choose a new one.
 
-https://media.github.umn.edu/user/19560/files/b43803cd-e894-4513-b278-7831ae716c39
+https://github.com/JacobMalin/campus-navigation/assets/34765120/41d2ea57-b7a1-443b-8d25-d20b676ca48b
 
 ### Challenge: Crowd Simulation
 
 Agents avoid collision by using TTC forces supplemented with a repelling force to ensure the agents do not get stuck ontop of eachother. The first video below has both bounding circles and paths enabled to show off collision avoidance. The following two videos show off the two scenes, the apartment and the campus, respectively.
 
-https://media.github.umn.edu/user/19560/files/0b635dac-06a0-4ccb-8e4c-5b0a4de853e5
+https://github.com/JacobMalin/campus-navigation/assets/34765120/3c2e82c7-be29-4cd0-a5df-4e5497cd3861
 
-https://media.github.umn.edu/user/19560/files/f103fdab-a217-4d00-b9e1-ff02e4362bdb
+https://github.com/JacobMalin/campus-navigation/assets/34765120/3bd18409-c9af-449c-8cb0-32227b82f4d1
 
-https://media.github.umn.edu/user/19560/files/8b4772ec-2140-47a3-9ef2-2889ecd24d7d
+https://github.com/JacobMalin/campus-navigation/assets/34765120/0e31a5ae-ed3f-44a2-8d6b-db38077cae71
 
 ## Difficulties
 
